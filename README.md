@@ -40,7 +40,7 @@ The reviews mention the pepperoni pizza has a bit of a kick...
 2. The question + reviews are fed to llama3.2 using a prompt.
 3. The LLM generates a context-aware answer.
 
-#### Notes
+### Notes:
 You can replace realistic_restaurant_reviews.csv with your own restaurant data, just keep columns: Title, Review, Rating, and Date.
 
 The app is designed to re-use the vector store once it's created, so startup is faster next time.
