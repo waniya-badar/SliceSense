@@ -26,11 +26,11 @@ ollama pull mxbai-embed-large
 ### Running the App:
 python main.py
 
--------------------------------
+
 Ask your question (q to quit):
 > Is the pizza spicy?
--------------------------------
 
+Answer:
 The reviews mention the pepperoni pizza has a bit of a kick...
 
 ### How It Works:
